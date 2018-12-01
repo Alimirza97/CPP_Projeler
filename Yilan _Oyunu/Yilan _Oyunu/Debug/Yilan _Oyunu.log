@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\elimirze\desktop\yilan _oyunu\yilan _oyunu\source.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Yilan _Oyunu.vcxproj -> C:\Users\Elimirze\Desktop\Yilan _Oyunu\Debug\Yilan _Oyunu.exe
