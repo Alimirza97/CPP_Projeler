@@ -1,0 +1,18 @@
+﻿  Source.cpp
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(44): warning C4101: 'k': unreferenced local variable
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(44): warning C4101: 't': unreferenced local variable
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(91): warning C4101: 't': unreferenced local variable
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(135): warning C4101: 't': unreferenced local variable
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(175): warning C4101: 't': unreferenced local variable
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(215): warning C4101: 't': unreferenced local variable
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(255): warning C4101: 't': unreferenced local variable
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(313): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(132): warning C4715: 'mleft': not all control paths return a value
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(172): warning C4715: 'mright': not all control paths return a value
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(153): error C4700: uninitialized local variable 'b' used
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(111): error C4700: uninitialized local variable 'b' used
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(212): warning C4715: 'mup': not all control paths return a value
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(193): error C4700: uninitialized local variable 'b' used
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(252): warning C4715: 'mdown': not all control paths return a value
+c:\users\elimirze\desktop\yilan\yilan\source.cpp(233): error C4700: uninitialized local variable 'b' used

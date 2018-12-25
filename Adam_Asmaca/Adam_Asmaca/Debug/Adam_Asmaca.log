@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\elimirze\desktop\adam_asmaca\adam_asmaca\source.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Adam_Asmaca.vcxproj -> C:\Users\Elimirze\Desktop\Adam_Asmaca\Debug\Adam_Asmaca.exe
