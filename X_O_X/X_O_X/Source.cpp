@@ -196,7 +196,6 @@ int main()
 				cout << endl << "\n\nSira BIRINCI (X) oyuncuda:" << ends;
 
 
-
 				cin >> b_sayi; // birinci oyuncudan sayiyi al
 
 				if (dizi[b_sayi - 1] == 'X' or dizi[b_sayi - 1] == 'O' or b_sayi>9 or b_sayi<1)
